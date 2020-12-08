@@ -30,4 +30,7 @@ FTP_BASEPATH: /home/ftpuser/
 
 test: test1
 
+feign:
+  hystrix:
+    enabled: true
 
